@@ -2,7 +2,7 @@
 
 A simple, interactive web app built with **Streamlit** that uses a **Random Forest Classifier** to predict the species of an Iris flower based on its sepal and petal measurements.
 
-![Streamlit Iris Classifier Screenshot](https://user-images.githubusercontent.com/your-screenshot-url) <!-- (Optional: Replace with a real screenshot) -->
+
 
 ---
 
